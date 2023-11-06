@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/sensores/calidad-del-aire.png</file>
+        <file>img/sensores/humedad.png</file>
+        <file>img/sensores/luz.png</file>
+        <file>img/sensores/presion.png</file>
+        <file>img/sensores/temperatura.png</file>
+        <file>img/sensores/ventoso.png</file>
+        <file>img/automatizacion/aspersor.png</file>
+        <file>img/automatizacion/estufa.png</file>
+        <file>img/automatizacion/farola.png</file>
+        <file>img/general/cielo.png</file>
+        <file>img/general/icon1.png</file>
+        <file>img/general/icon2.png</file>
+        <file>img/general/icon3.png</file>
+        <file>img/automatizacion/aspersor2.png</file>
+    </qresource>
+</RCC>
